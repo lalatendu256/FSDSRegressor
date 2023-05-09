@@ -1,0 +1,5 @@
+[ 2023-05-09 09:30:06,497 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-09 09:30:06,502 ] 224 werkzeug - INFO -  * Debugger PIN: 130-896-073
+[ 2023-05-09 09:30:20,563 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:30:20] "GET / HTTP/1.1" 200 -
+[ 2023-05-09 09:30:20,603 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:30:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-05-09 09:37:41,739 ] 224 werkzeug - INFO -  * Detected change in 'd:\\ineuron\\fsds course\\machine learning\\ml_project\\house_price_prediction\\app.py', reloading

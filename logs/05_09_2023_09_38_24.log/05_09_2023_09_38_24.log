@@ -1,0 +1,6 @@
+[ 2023-05-09 09:38:25,559 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-09 09:38:25,565 ] 224 werkzeug - INFO -  * Debugger PIN: 130-896-073
+[ 2023-05-09 09:38:33,625 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:38:33] "GET / HTTP/1.1" 200 -
+[ 2023-05-09 09:38:35,831 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:38:35] "GET / HTTP/1.1" 200 -
+[ 2023-05-09 09:38:40,037 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-09 09:38:40,037 ] 224 werkzeug - INFO -  * Debugger PIN: 130-896-073

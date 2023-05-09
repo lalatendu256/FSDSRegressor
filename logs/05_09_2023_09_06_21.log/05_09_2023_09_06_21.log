@@ -1,0 +1,3 @@
+[ 2023-05-09 09:06:22,731 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-09 09:06:22,737 ] 224 werkzeug - INFO -  * Debugger PIN: 130-896-073
+[ 2023-05-09 09:07:15,747 ] 224 werkzeug - INFO -  * Detected change in 'd:\\ineuron\\fsds course\\machine learning\\ml_project\\house_price_prediction\\application.py', reloading

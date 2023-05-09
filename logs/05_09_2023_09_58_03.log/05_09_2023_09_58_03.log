@@ -1,0 +1,11 @@
+[ 2023-05-09 09:58:04,612 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-05-09 09:58:04,624 ] 224 werkzeug - INFO -  * Debugger PIN: 130-896-073
+[ 2023-05-09 09:58:08,959 ] 67 root - INFO - Dataframe Gathered
+[ 2023-05-09 09:58:09,051 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:58:09] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-09 09:58:14,100 ] 67 root - INFO - Dataframe Gathered
+[ 2023-05-09 09:58:14,121 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:58:14] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-09 09:58:19,168 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:58:19] "GET / HTTP/1.1" 200 -
+[ 2023-05-09 09:58:28,971 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:58:28] "GET /predict HTTP/1.1" 200 -
+[ 2023-05-09 09:58:56,654 ] 67 root - INFO - Dataframe Gathered
+[ 2023-05-09 09:58:56,678 ] 224 werkzeug - INFO - 127.0.0.1 - - [09/May/2023 09:58:56] "POST /predict HTTP/1.1" 200 -
+[ 2023-05-09 09:59:24,976 ] 224 werkzeug - INFO -  * Detected change in 'd:\\ineuron\\fsds course\\machine learning\\ml_project\\house_price_prediction\\app.py', reloading
