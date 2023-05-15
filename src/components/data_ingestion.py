@@ -1,7 +1,7 @@
 # In Data Ingestion components we need to do how to read the data
 
 import os # to create the file path.
-import sys # system erropr
+import sys # system error
 from src.logger import logging
 from src.exception import CustomException
 import pandas as pd
@@ -44,7 +44,7 @@ class DataIngestion:
             logging.info('Data Ingestion is completed.')
 
             return(
-                self.ingestion_config.test_data_path,
+                self.ingestion_config.train_data_path,
                 self.ingestion_config.test_data_path
             )
 
@@ -53,10 +53,5 @@ class DataIngestion:
             logging.info('Exception occured at Data Ingestion stage.')
             raise CustomException(e,sys)   
 
-## Run Data Ingestion
-if __name__=='__main__':    
-    obj=DataIngestion() 
-    train_data_path,test_data_path=obj.initate_data_ingestion()  
-    data_transformation = DataTransformation()
-    train_arr,test_arr,_=data_transformation.initiate_data_tranformation(train_data_path,test_data_path)      
+    
 

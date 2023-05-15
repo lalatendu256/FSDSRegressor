@@ -1,5 +1,5 @@
 import os # to create the file path.
-import sys # system erropr
+import sys # system error
 from src.logger import logging
 from src.exception import CustomException
 import pandas as pd
